@@ -1,0 +1,8 @@
+{
+  "name": "AgriN-India AI: Regenerative Crop Advisory & Disease Diagnosis",
+  "description": "BRICS AgriN initiative digital public good providing multimodal crop disease diagnosis, climate-resilient regenerative advisories, and multilingual voice guidance for smallholder farmers across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
